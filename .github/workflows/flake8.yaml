@@ -25,6 +25,7 @@ jobs:
 
       - name: Run flake8
         run: |
-          flake8 markdown_compiler --ignore=E501, W503
+          flake8 markdown_compiler --ignore=E501
+
 
 
