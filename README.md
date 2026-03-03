@@ -19,3 +19,4 @@ $ markdown-compiler example/README.md --add_css
 ```
 
 <img src='examples/example-css.png' width=300px>
+# markdown-compiler
