@@ -11,12 +11,12 @@ Basic usage:
 $ markdown-compiler example/README.md
 ```
 
-<img src='markdown-compiler/Screenshot 2026-03-02 at 9.22.00 PM.png' width=300px>
+<img src='Screenshot 2026-03-02 at 9.22.00 PM.png' width=300px>
 
 Fancy CSS formatting can be included with the flag `--add_css`:
 ```
 $ markdown-compiler example/README.md --add_css
 ```
 
-<img src='markdown-compiler/Screenshot 2026-03-02 at 9.23.39 PM.png' width=300px>
+<img src='Screenshot 2026-03-02 at 9.23.39 PM.png' width=300px>
 # markdown-compiler
